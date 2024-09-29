@@ -91,6 +91,6 @@ Special thanks to Andrej Karpathy for his invaluable guide on building autograd 
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hi, feel free to reach out to us at [your-email@example.com](baralaavas@gmail.com) or open an issue on GitHub.
+If you have any questions, suggestions, or just want to say hi, feel free to reach out to us at [baralaavas@gmail.com](mailto:baralaavas@gmail.com) or open an issue on GitHub.
 
 Happy coding with Abacus!
